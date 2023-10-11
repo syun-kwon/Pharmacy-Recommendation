@@ -1,6 +1,6 @@
 # Pharmacy-Recommendation   
 
-해당 코드는 [패스트 캠퍼스 강의](https://fastcampus.co.kr/dev_online_befinal)에서 사용된다.   
+해당 내용은 패스트캠퍼스 강의를 위한 프로젝트 git에서 fork한 내용이다.
 강의 각 챕터 별 완성 코드는 [링크](https://github.com/WonYong-Jang/Pharmacy-Recommendation-Version-Management)에서 
 commit으로 기록 된다.    
  
